@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+.centered-img {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+figcaption {
+  font-size: medium;
+}
+.p-edit {
+  width: 800px;
+  text-align: center;
+}
+.details-edit {
+  float: left;
+  background-color: brown;
+  text-align: center;
+  width: 25%;
+}
